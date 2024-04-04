@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+#location {
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+#getWeather {
+	padding: 10px 20px;
+	font-size: 20px;
+	margin-top: 20px;
+	background-color: #333;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#getWeather:hover {
+	background-color: #444;
+}
+
+#weather {
+	font-size: 30px;
+	margin-top: 20px;
+}
